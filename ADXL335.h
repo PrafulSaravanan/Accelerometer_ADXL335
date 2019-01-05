@@ -39,8 +39,8 @@
 
 #define ADC_AMPLITUDE 1024//amplitude of the 10bit-ADC of Arduino is 1024LSB
 #define ADC_REF 5   //ADC reference is 5v
-#define ZERO_X  1.35 //accleration of X-AXIS is 0g, the voltage of X-AXIS is 1.22v
-#define ZERO_Y  1.35 //
+#define ZERO_X  1.26 //accleration of X-AXIS is 0g, the voltage of X-AXIS is 1.22v
+#define ZERO_Y  1.26 //
 #define ZERO_Z  1.2 //
 #define SENSITIVITY 0.27//sensitivity of X/Y/Z axis is 0.25v/g
 
